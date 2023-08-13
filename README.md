@@ -1,4 +1,5 @@
 # matching_game
+## Uses SetState method for state management
 
 A new Flutter project.
 
